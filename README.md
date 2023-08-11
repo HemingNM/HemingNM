@@ -1,4 +1,7 @@
-### Hi, I'm Neander M. Heming {align='center'}
+<h1 align='center'>
+Hi, I'm Neander M. Heming
+</h1>
+
 <br>
 
 <p align='justify'>
@@ -8,7 +11,7 @@ My research interests include the effects of global warming on the distribution 
 </p>
 <br>
 
-#### **Interests:** {align='left'}
+#### **Interests:**
   - Ecology
   - Conservation
   - Climate Change
@@ -16,7 +19,7 @@ My research interests include the effects of global warming on the distribution 
 
 ---
 
-#### **R packages developed or co-authored by me:** {align='left'}
+#### **R packages developed or co-authored by me:**
 | Package              | A short summary                              | Downloads |
 | -------------------- | -------------------------------------------- | --------- |
 | [<img align="left" width="60px" src="https://github.com/HemingNM/SESraster/blob/master/man/figures/logo.png"/>](https://hemingnm.github.io/SESraster) | Randomization of presence/absence species distribution raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/SESraster?color=green)](https://cran.r-project.org/package=SESraster) |
@@ -27,18 +30,18 @@ My research interests include the effects of global warming on the distribution 
 
 ---
 
-#### **Main tools:** {align='left'}
+#### **Main tools:**
 <div style="display: inline_block"><br>
-  <img align="center" alt="R" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"/>&nbsp;
-  <img align="center" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>&nbsp;
-  <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>&nbsp;
-  <img align="center" alt="RMarkdown" height="30" width="30" src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png"/>&nbsp;
-  <img align="center" alt="Quarto" height="30" width="33" src="https://raw.githubusercontent.com/github/explore/80f119e965a9a3df7b74c3f7b63a502e3d0ded36/topics/quarto/quarto.png"/>&nbsp;
+  <img align="left" alt="R" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"/>&nbsp;
+  <img align="left" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>&nbsp;
+  <img align="left" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>&nbsp;
+  <img align="left" alt="RMarkdown" height="30" width="30" src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png"/>&nbsp;
+  <img align="left" alt="Quarto" height="30" width="33" src="https://raw.githubusercontent.com/github/explore/80f119e965a9a3df7b74c3f7b63a502e3d0ded36/topics/quarto/quarto.png"/>&nbsp;
 </div>
 
 ---
 
-#### **Find me:** {align='left'}
+#### **Find me:**
 [<img width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/3185094096445587)
 [<img width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0003-2461-5045)
 [<img width="22px" src="https://publons.com/static/images/logos/square/blue_white_shadow.png"/>](https://publons.com/researcher/2610381/neander-marcel-heming/)
