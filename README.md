@@ -49,5 +49,3 @@ My research interests include the effects of global warming on the distribution 
 [<img width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"/>](https://www.researchgate.net/profile/Neander-Heming)
 [<img width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/NeanderHeming)
 
-<br>
-
