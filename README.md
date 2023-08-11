@@ -2,7 +2,6 @@
 Hi, I'm Neander M. Heming
 </h1>
 
-<br>
 
 <p align='justify'>
 
