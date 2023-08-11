@@ -13,9 +13,11 @@ My research interests include the effects of global warming on the distribution 
 ---
 
 #### R packages developed or co-authored by me:
-[<img align="left" width="60px" src="https://github.com/HemingNM/SESraster/blob/master/man/figures/logo.png"/>](https://hemingnm.github.io/SESraster)
-[<img align="left" width="60px" src="https://github.com/flaviomoc/divraster/blob/master/man/figures/logo.png"/>](https://flaviomoc.github.io/divraster)
-[<img align="left" width="60px" src="https://github.com/gabferreira/phyloraster/blob/master/man/figures/logo.png"/>](https://gabferreira.github.io/phyloraster)
+| Name                 | A short summary                              | Downloads |
+| -------------------- | -------------------------------------------- | --------- |
+| [<img align="left" width="60px" src="https://github.com/HemingNM/SESraster/blob/master/man/figures/logo.png"/>](https://hemingnm.github.io/SESraster) | Randomization of presence/absence species distribution raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/SESraster?color=green)](https://cran.r-project.org/package=SESraster) |
+| [<img align="left" width="60px" src="https://github.com/flaviomoc/divraster/blob/master/man/figures/logo.png"/>](https://flaviomoc.github.io/divraster) | Taxonomic (TD), functional (FD), and phylogenetic (PD) diversity for raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/divraster?color=green)](https://cran.r-project.org/package=divraster) |
+| [<img align="left" width="60px" src="https://github.com/gabferreira/phyloraster/blob/master/man/figures/logo.png"/>](https://gabferreira.github.io/phyloraster) | Endemism and evolutionary diversity metrics for raster data | [![](http://cranlogs.r-pkg.org/badges/grand-total/phyloraster?color=green)](https://cran.r-project.org/package=phyloraster) |
 
 <br/>
 <br>
