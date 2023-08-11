@@ -17,7 +17,7 @@ My research interests include the effects of global warming on the distribution 
 [<img align="left" width="60px" src="https://github.com/flaviomoc/divraster/blob/master/man/figures/logo.png"/>](https://flaviomoc.github.io/divraster)
 [<img align="left" width="60px" src="https://github.com/gabferreira/phyloraster/blob/master/man/figures/logo.png"/>](https://gabferreira.github.io/phyloraster)
 
-<br>
+<br/>
 <br>
 
 ---
@@ -30,8 +30,7 @@ My research interests include the effects of global warming on the distribution 
   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>&nbsp;
 </div>
 
-<br>
-<br>
+---
 
 #### Find me:
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0003-2461-5045)
