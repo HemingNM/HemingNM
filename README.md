@@ -34,7 +34,7 @@ My research interests include the effects of global warming on the distribution 
   <img align="left" alt="R" height="33" width="44" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"/>&nbsp;
   <img align="left" alt="GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>&nbsp;
   <img align="left" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>&nbsp;
-  <img align="left" alt="RMarkdown" height="30" width="30" src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png"/>&nbsp;
+  <img align="left" alt="RMarkdown" height="30" width="33" src="https://pkgs.rstudio.com/rmarkdown/reference/figures/logo.png"/>&nbsp;
   <img align="left" alt="Quarto" height="30" width="33" src="https://raw.githubusercontent.com/github/explore/80f119e965a9a3df7b74c3f7b63a502e3d0ded36/topics/quarto/quarto.png"/>&nbsp;
 </div>
 
