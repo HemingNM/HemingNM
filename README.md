@@ -13,10 +13,11 @@ My research interests include the effects of global warming on the distribution 
 ---
 
 #### R packages developed or co-authored by me:
-[<img align="left" width="44px" src="https://github.com/HemingNM/SESraster/blob/master/man/figures/logo.png"/>](https://hemingnm.github.io/SESraster)
-[<img align="left" width="44px" src="https://github.com/flaviomoc/divraster/blob/master/man/figures/logo.png"/>](https://flaviomoc.github.io/divraster)
-[<img align="left" width="44px" src="https://github.com/gabferreira/phyloraster/blob/master/man/figures/logo.png"/>](https://gabferreira.github.io/phyloraster)
+[<img align="left" width="60px" src="https://github.com/HemingNM/SESraster/blob/master/man/figures/logo.png"/>](https://hemingnm.github.io/SESraster)
+[<img align="left" width="60px" src="https://github.com/flaviomoc/divraster/blob/master/man/figures/logo.png"/>](https://flaviomoc.github.io/divraster)
+[<img align="left" width="60px" src="https://github.com/gabferreira/phyloraster/blob/master/man/figures/logo.png"/>](https://gabferreira.github.io/phyloraster)
 
+<br>
 <br>
 
 ---
@@ -33,12 +34,11 @@ My research interests include the effects of global warming on the distribution 
 <br>
 
 #### Find me:
-[<img align="left" width="22px" src="https://hemingnm.github.io/img/favicon.png"/>](https://hemingnm.github.io/)
 [<img align="left" width="22px" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"/>](https://orcid.org/0000-0003-2461-5045)
 [<img align="left" width="22px" src="https://publons.com/static/images/logos/square/blue_white_shadow.png"/>](https://publons.com/researcher/2610381/neander-marcel-heming/)
 [<img align="left" width="22px" src="https://iconape.com/wp-content/files/da/64524/svg/google-scholar.svg"/>](https://scholar.google.com/citations?user=mfRNtDkAAAAJ)
 [<img align="left" width="22px" src="https://arquivo.unifesp.br/images/icon/icon_lattes.svg"/>](http://lattes.cnpq.br/3185094096445587)
-[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg"/>](https://www.researchgate.net/profile/Neander-Heming)
+[<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg"/>](https://www.researchgate.net/profile/Neander-Heming)
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"/>](https://twitter.com/NeanderHeming)
 
 <br>
