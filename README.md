@@ -5,9 +5,11 @@ Hi, I'm Neander M. Heming
 <br>
 
 <p align='justify'>
-I am a post doc researcher at [Applied Ecology and Conservation Lab](appliedecologylab.org), UESC - Ilhéus, BA, Brazil.
-<br>
-My research interests include the effects of global warming on the distribution and conservation of organisms, methodological aspects of ecological niche modeling, and how ecological and environmental processes affect bird life histories. Methods include ecological niche models, R stats, R programming, spatial analyses. Currently working on threats that climate change poses to the biodiversity of cabrucas (traditional cocoa agroforests) of southern Bahia and how cabrucas can mitigate impacts of a warming climate.
+
+I am a post doc researcher at [Applied Ecology and Conservation Lab](appliedecologylab.org), UESC - Ilhéus, BA, Brazil. <br>
+
+My research interests include the effects of global warming on the distribution and conservation of organisms, methodological aspects of ecological niche modeling, and how ecological and environmental processes affect bird life histories. Methods include ecological niche models, R stats, R programming, spatial analyses. Currently working on threats that climate change poses to the biodiversity of cabrucas (traditional cocoa agroforests) of southern Bahia and how cabrucas can mitigate impacts of a warming climate. <br>
+
 </p>
 
 #### **Interests:**
