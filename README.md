@@ -5,7 +5,6 @@ Hi, I'm Neander M. Heming
 
 #### **IMPORTANT**
 **Quitting from academy.** <br>
-<br>
 I am no longer accepting invitations for manuscript reviews. I am only finishing works in progress in collaboration with other researchers and students.
 I may accept collaborations but time is now very limited. <br>
 <br>
